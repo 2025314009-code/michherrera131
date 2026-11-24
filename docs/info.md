@@ -13,7 +13,7 @@ Explain how your project works
 
 ## How to test
 
-Explain how to use your project
+se hizo una bcgd de 7 segmentos que tiene 4 entradas y 7 salidas
 
 ## External hardware
 
