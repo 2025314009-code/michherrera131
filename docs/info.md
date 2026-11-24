@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+funciona compo un bcdg de 7 segmentos
 
 ## How to test
 
-A 7-segment BCG display was created that has 4 inputs and 7 outputs.
+mediante la simulacion
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+un bgcd de 4 entradas 7 segmentos
