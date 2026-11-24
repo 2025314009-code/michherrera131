@@ -13,7 +13,7 @@ Explain how your project works
 
 ## How to test
 
-se hizo una bcgd de 7 segmentos que tiene 4 entradas y 7 salidas
+A 7-segment BCG display was created that has 4 inputs and 7 outputs.
 
 ## External hardware
 
